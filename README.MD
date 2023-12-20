@@ -13,5 +13,5 @@ Este é um aplicativo de chat simples construído com React.
 1. Clone este repositório:
 
 ```powershell
-git clone https://github.com/seu-usuario/chat-app.git
+git clone https://github.com/ViniciusRocco/ROCCOPROJECT.git
 cd chat-app
