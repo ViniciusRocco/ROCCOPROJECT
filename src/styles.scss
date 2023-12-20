@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .chat-container {
+    width: 400px;
+    border: 1px solid #ccc;
+    padding: 16px;
+  }
+  
+  .message-history {
+    max-height: 200px;
+    overflow-y: auto;
+  }
+  
+  .input-container {
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+  }
+  
+  .emoji-picker {
+    display: flex;
+    gap: 4px;
+    margin-top: 8px;
+  
+    span {
+      cursor: pointer;
+    }
+  }
+  
